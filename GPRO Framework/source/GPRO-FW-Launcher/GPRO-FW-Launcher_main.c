@@ -3,5 +3,7 @@
 
 int main()
 {
+	int test = OwO(9000);
 
+	printf("\n %d \n", test);
 }
