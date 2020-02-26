@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPRO-FW-Launcher", "..\..\GPRO-FW-Launcher\GPRO-FW-Launcher.vcxproj", "{158EE8B2-0B97-423C-BC9E-8ED5BE594B37}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8E9087BB-8E5F-41E2-AE0C-F62C31019153} = {8E9087BB-8E5F-41E2-AE0C-F62C31019153}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyCodeOwO", "..\..\MyCodeOwO\MyCodeOwO.vcxproj", "{8E9087BB-8E5F-41E2-AE0C-F62C31019153}"
 EndProject
